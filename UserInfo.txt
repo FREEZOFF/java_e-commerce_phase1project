@@ -1,0 +1,5 @@
+Email: aakarsh@gmail.com, Name: aakarsh, Password: aak
+Email: aakarshgrg@gmail.com, Name: aakarsh, Password: gghello
+Email: raj.@gmail.com, Name: raj, Password: 12345
+Email: upes@upes.com, Name: upes, Password: gus
+Email: raghvendra@vfx.com, Name: raghvendra, Password: RAGH123
